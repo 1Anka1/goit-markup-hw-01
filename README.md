@@ -30,7 +30,7 @@
   
 «B8» Contacts in the header (mail and phone) are outside the <nav> tag.
   
-«B9» The <h1> tag is used once per page.
+«B9» The h1 tag is used once per page.
   
 «B10» An element with the text "Order a service" is a button with type ="button".
   
