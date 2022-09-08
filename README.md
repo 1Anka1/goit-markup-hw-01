@@ -36,12 +36,12 @@
   
 «B11» Section headings are marked with h2.
   
-«B12» All <img> tags have size attributes, at least width.
+«B12» All img tags have size attributes, at least width.
   
-«B13» All <img> tags have the alt attribute, which contains a brief description of what is shown in the picture.
+«B13» All img tags have the alt attribute, which contains a brief description of what is shown in the picture.
   
 «B14» Images are exported from the layout in jpg format.
   
-«B15» Groups of the same-type elements are in <ul> lists.
+«B15» Groups of the same-type elements are in ul lists.
   
-«B16» The <address> tag is only used in the footer.
+«B16» The address tag is only used in the footer.
