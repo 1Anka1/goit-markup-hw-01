@@ -22,7 +22,7 @@
 
 «B4» HTML can be validated using validator without errors.
 
-«B5» There are tags in the markup for web page structuring: <header>, <main> and <footer>.
+«B5» There are tags in the markup for web page structuring: header, main and footer.
   
 «B6» The logo in the header and footer is a link with text, not an image.
   
@@ -34,7 +34,7 @@
   
 «B10» An element with the text "Order a service" is a button with type ="button".
   
-«B11» Section headings are marked with <h2>.
+«B11» Section headings are marked with h2.
   
 «B12» All <img> tags have size attributes, at least width.
   
